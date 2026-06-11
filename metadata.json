@@ -1,0 +1,6 @@
+{
+  "name": "Optima - Diagnóstico Operacional",
+  "description": "Descubra onde sua empresa está perdendo tempo e dinheiro através do Diagnóstico Operacional Optima. Receba uma análise automatizada com foco em eficiência e excelência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
